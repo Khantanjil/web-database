@@ -4,7 +4,7 @@ import smtplib
 
 def send_email(email, height):
     from_email = "tanjilxd@gmail.com"
-    from_password = "tanjil08072005"
+    from_password = "censured"
     to_email = email
 
     subject = "Height Data"
